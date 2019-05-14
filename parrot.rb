@@ -1,4 +1,4 @@
-def "#parrot"(string)
+def parrot(string)
   puts string
   return string
 end
